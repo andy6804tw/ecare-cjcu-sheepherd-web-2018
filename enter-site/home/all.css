@@ -1,8 +1,5 @@
 @import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
- @font-face {
-     font-family: 'DFHsiu-W3-WIN-BF';
-     src: url(DFHsiu-W3-WIN-BF.woff) format('woff');
- }
+
 /* Header */
  .large-header {
      position: relative;
@@ -16,8 +13,6 @@
  #large-header {
      background-image: url(https://firebasestorage.googleapis.com/v0/b/webfirebase-88e1c.appspot.com/o/sheep.png?alt=media&token=59b10b96-99bc-4d2c-a48c-930f5a72bc4c);
      background-repeat: no-repeat;
-     background-repeat-x: no-repeat;
-     background-repeat-y: no-repeat;
      position: fixed;
      z-index: 0;
      background-position: center center;
@@ -81,7 +76,6 @@ figure {
   z-index: 4;
 }
 .section-title {
-  font-family: 'DFHsiu-W3-WIN-BF';
   font-weight: bold;
   overflow: hidden;
   position: relative;
