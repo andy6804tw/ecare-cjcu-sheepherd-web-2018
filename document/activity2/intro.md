@@ -1,5 +1,5 @@
 ---
-layout: activity
+layout: 'activity2'
 title: 'yarn'
 desc: ''
 ---
