@@ -1,3 +1,6 @@
+---
+layout: activity
+---
 
 ![](https://imgur.com/SAIGIF5.jpg)
 # 圖書館說故事
