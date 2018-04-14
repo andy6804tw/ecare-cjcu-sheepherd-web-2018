@@ -1,7 +1,7 @@
 ---
 layout: activity3
-title: 'song'
-desc: ''
+title: '資訊志工仁愛之家'
+desc: '活到老學到老，陪伴是唯一最好的禮物'
 ---
 
 ![](https://imgur.com/U83uP0u.jpg)

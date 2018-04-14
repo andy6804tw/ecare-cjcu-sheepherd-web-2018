@@ -1,7 +1,7 @@
 ---
 layout: 'activity1'
 title: '[靈機一動樂高機器人]暑期營隊'
-desc: '體驗童時的樂趣並結合程式設計'
+desc: '放下手邊工作好好陪伴孩子'
 ---
 
 ![](https://imgur.com/GHH6WSa.jpg)
