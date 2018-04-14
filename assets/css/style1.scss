@@ -1,0 +1,11 @@
+---
+'layout': 'activity1'
+---
+
+
+// Headers
+$header-heading-color: #fff ;
+$header-bg-color: #abecd6 ;
+$header-bg-color-secondary: #abecd6 ;
+
+@import "{{ site.theme }}";
