@@ -2,8 +2,14 @@
 'layout': 'activity'
 ---
 
+
+@import "normalize";
+@import "rouge-github";
+@import "variables";
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
 .page-header {
-  color: #000;
+  color: rgb(255, 91, 91);
   text-align: center;
   background-color: #ccc;
   background-image: linear-gradient(120deg, #fff, #000);
