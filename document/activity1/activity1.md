@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: activity
 ---
 
 ![](https://imgur.com/SAIGIF5.jpg)
