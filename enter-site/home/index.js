@@ -237,5 +237,5 @@ tlsheeprightear2.to(sheeprightear2, .3, {
 
 // enter button
 document.getElementById("clickme").onclick = function () {
-  location.href = "https://6e2071de.ngrok.io/index.html"
+  location.href = "https://andy6804tw.github.io/ecare-cjcu-sheepherd-blog/"
 };
