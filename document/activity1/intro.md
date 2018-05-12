@@ -52,7 +52,7 @@ desc: '放下手邊工作好好陪伴孩子'
         - 師長
         - 隊輔
     
-    !<img src="https://i.imgur.com/7jJ6PdO.jpg" width="350">
+    <img src="https://i.imgur.com/7jJ6PdO.jpg" width="350">
 
 3. 工作分配
     - 隊輔組(以2~3人為一組。)
