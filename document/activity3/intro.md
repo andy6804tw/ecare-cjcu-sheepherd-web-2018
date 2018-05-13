@@ -148,4 +148,18 @@ desc: '活到老學到老，陪伴是唯一最好的禮物'
 ![](https://imgur.com/z4lVioz.jpg)
 
 ## 志工心語
-## 活動剪影
+[「滿滿的溫暖」-許韋中](https://hackmd.io/s/H1r4srHaz)
+
+[「仁愛之家領悟」-史睿恩](https://hackmd.io/s/SJyDhBBpz)
+
+[「仁愛之家的服務」-劉泯錞](https://hackmd.io/s/B19t6SrTf)
+
+[「奶奶的笑容」-林逸融](https://hackmd.io/s/Skvs0SS6M)
+
+[「這螢幕太小」-陳怡靜](https://hackmd.io/s/r1ZbWPHpG)
+
+## 服務總結
+1. 總服務次數:4次
+2. 總出隊人次:63人
+3. 總服務時數:48小時
+4. 總受服務人次:20人
