@@ -1,3 +1,9 @@
+---
+layout: activity6
+title: '3C課程與防詐騙宣導'
+desc: '又回到最初的起點，記憶中你/妳青澀的臉'
+---
+
 ![](https://imgur.com/3xZl4os.jpg)
 # 資訊志工仁愛之家2.0
 ## 活動簡介
