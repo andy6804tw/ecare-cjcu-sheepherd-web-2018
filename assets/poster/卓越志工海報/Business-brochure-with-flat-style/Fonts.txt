@@ -1,0 +1,10 @@
+Fonts used in this design;
+
+Font: Dosis, 
+Author: Impallari Type, 
+Url: http://www.fontsquirrel.com/fonts/dosis; 
+
+Font: Tondu, 
+Author: The Northern Block, 
+Url: http://www.fontsquirrel.com/fonts/tondu; 
+
